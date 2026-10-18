@@ -1,0 +1,31 @@
+# Last week's bistro menu, kept to show `menuguard diff`.
+
+ingredient flour: gluten
+ingredient croutons: gluten, egg
+ingredient butter: milk
+ingredient parmesan: milk
+ingredient egg: egg
+ingredient cod: fish
+ingredient anchovy: fish
+ingredient prawn: crustacean
+ingredient peanut-oil: peanut
+ingredient sunflower-oil: none
+ingredient potato: none
+ingredient rice: none
+ingredient lettuce: none
+ingredient almond: tree-nut
+ingredient chicken: none
+ingredient soy-sauce: soy
+ingredient sesame-seed: sesame
+ingredient pasta-durum: gluten
+ingredient tomato: none
+ingredient basil: none
+ingredient wheat-batter: gluten, egg
+
+dish Fish and chips: cod, flour, potato, sunflower-oil | shares: fryer | free-from: crustacean
+dish Prawn tempura: prawn, wheat-batter, peanut-oil | shares: fryer
+dish Caesar salad: lettuce, parmesan, anchovy, egg, croutons | free-from: tree-nut
+dish Risotto: rice, butter, parmesan | free-from: gluten
+dish Almond tart: flour, butter, almond, egg
+dish Pasta pomodoro: pasta-durum, tomato, basil | free-from: milk, egg
+dish Sesame chicken: chicken, soy-sauce, sesame-seed, rice
